@@ -4,4 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
+disarm64 = "0.1.20"
+disarm64_defn = "0.1.9"
 pe-parser = "0.5"
+capstone = "0.12.0"
